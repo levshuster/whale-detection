@@ -1,0 +1,6 @@
+# git ignore
+# ignore files in RightWhaleCalls folder
+RightWhaleCalls/
+
+# ignore any zip files
+*.zip
