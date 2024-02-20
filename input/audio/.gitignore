@@ -1,6 +1,4 @@
-# git ignore
-# ignore files in RightWhaleCalls folder
-RightWhaleCalls/
+data/
+whale-detection-challenge/
 
-# ignore any zip files
 *.zip
